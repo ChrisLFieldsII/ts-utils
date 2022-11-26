@@ -1,1 +1,2 @@
-export * from './lib/number';
+export * from './array';
+export * from './function';
